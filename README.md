@@ -1,4 +1,5 @@
 AI-Powered Customer Request Triage
+
 A no-code automation workflow that reads incoming customer messages and automatically classifies them by urgency, category, and a one-line summary using n8n and the Google Gemini API
 
 What it does
