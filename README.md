@@ -36,4 +36,3 @@ About
 Built as a hands-on introduction to integrating LLM APIs into business-process automation connecting an AI model to a broader workflow rather than using it in isolation.
 
 By Stephen Paulet — LinkedIn
-<img width="451" height="686" alt="image" src="https://github.com/user-attachments/assets/3dd788a0-b5fe-49d7-8fae-bfaa5ba63b6a" />
