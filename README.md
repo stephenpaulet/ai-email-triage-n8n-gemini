@@ -31,7 +31,7 @@ Tools I used to build it:
 
 Files overview:
 
-My workflow.json: the full exported n8n workflow (API keys removed; add your own Gemini key via n8n Credentials or the request URL to run it).
+my_workflow.json: the full exported n8n workflow (API keys removed; add your own Gemini key via n8n Credentials or the request URL to run it).
 See workflow-canvas.png for a visual of the node structure, and sample-output.png for an example run.
 
 
